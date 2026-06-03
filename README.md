@@ -1,6 +1,8 @@
-# Hi, I'm Miu 👋
+<h1 align="center">Hi, I'm Miu 👋</h1>
 
-🎓 Computer Science Student at Future University Hakodate
+<p align="center">
+Computer Science Student at Future University Hakodate
+</p>
 
 I enjoy creating products based on real user experiences and feedback.
 Currently focusing on mobile app development, web development, and UI/UX design.
@@ -40,6 +42,10 @@ An application designed to encourage communication between younger and older gen
 * Team development
 * Presented and improved through user feedback
 
+**Links**
+- [Repository](https://github.com/mun-o2/hack1)
+- [Portfolio](https://www.notion.so/35e8c595037d80439b4aca4c72bd9315?source=copy_link)
+
 ### 🌍 nook.
 
 Developed a product as part of a team and presented it at 技育博.
@@ -48,6 +54,11 @@ Developed a product as part of a team and presented it at 技育博.
 * Planning and prototyping
 * Development and presentation
 * Product improvement based on feedback
+
+**Links**
+- [Repository](https://github.com/Justhiro55/living-room)
+- [Portfolio](https://www.notion.so/nook-34a8c595037d8035ae9cfa7936e433cf?source=copy_link)
+
 
 ---
 
