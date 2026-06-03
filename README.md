@@ -39,3 +39,35 @@ I enjoy creating products based on real user experiences and feedback.
 - React Learning
 - Portfolio Projects
 - UI/UX Design
+
+## Skills
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+## GitHub Stats
+
+![Miu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mun-o2&show_icons=true)
+
+## Links
+
+- 🌐 Portfolio: https://xxxxx
+- 💼 Wantedly: https://xxxxx
+- 🐙 GitHub: https://github.com/mun-o2
+
+  ## Connect with me
+
+<a href="https://github.com/mun-o2">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+## Currently Working On
+
+- 📱 Flutter App Development
+- ⚛️ Learning React
+- 👥 Team Development Projects
+- 🎨 UI/UX Design with Figma
