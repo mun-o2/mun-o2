@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Miu 👋</h1>
 
 <p align="center">
-Computer Science Student at Future University Hakodate
+🎓Computer Science Student at Future University Hakodate
 <br>
-Interested in Product Development, Mobile Apps, and User-Centered Design
+👀Interested in Product Development, Mobile Apps, and User-Centered Design
 </p>
 
 I enjoy creating products based on real user experiences and feedback.
