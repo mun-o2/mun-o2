@@ -40,7 +40,7 @@ An application designed to encourage communication between younger and older gen
 * Team development
 * Presented and improved through user feedback
 
-### 🏆 nook.
+### 🌍 nook.
 
 Developed a product as part of a team and presented it at 技育博.
 
