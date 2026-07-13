@@ -22,15 +22,6 @@ Currently focusing on mobile app development, web development, and UI/UX design.
 
 ---
 
-## 🌟 Portfolio
-
-My projects and development process:
-
-🔗 Portfolio (Notion)
-https://www.notion.so/mun-s-portfolio-34a8c595037d80c09741d983567bf631
-
----
-
 ## 📌 Featured Projects
 
 ### 🐑 ひつじのしおり
