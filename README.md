@@ -44,7 +44,6 @@ An application designed to encourage communication between younger and older gen
 
 **Links**
 - [Repository](https://github.com/mun-o2/hack1)
-- [Portfolio](https://www.notion.so/35e8c595037d80439b4aca4c72bd9315?source=copy_link)
 
 ### 🌍 nook.
 
@@ -57,7 +56,6 @@ Developed a product as part of a team and presented it at 技育博.
 
 **Links**
 - [Repository](https://github.com/Justhiro55/living-room)
-- [Portfolio](https://www.notion.so/nook-34a8c595037d8035ae9cfa7936e433cf?source=copy_link)
 
 
 ---
@@ -85,7 +83,6 @@ Flutter / React / Firebase / Git / GitHub / Figma
 
 ## 🔗 Links
 
-- [Portfolio](NotionURL)
 - [X (@peti_en)](https://x.com/peti_en)
 - [note](https://note.com/peti_en)
 - [GitHub](https://github.com/mun-o2)
