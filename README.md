@@ -21,7 +21,7 @@ Currently focusing on mobile app development, web development.
 
 ## 📌 Featured Projects
 
-### share me
+### 🩷share me
 
 A digital profile book app that allows users to exchange profiles with friends.
 
@@ -32,7 +32,7 @@ A digital profile book app that allows users to exchange profiles with friends.
 **Links**
 - [Repository](https://github.com/mun-o2/hakocha)
 
-### nook.
+### 🪴nook.
 
 A product developed as part of a team and presented at 技育博.
 
@@ -44,7 +44,7 @@ A product developed as part of a team and presented at 技育博.
 **Links**
 - [Repository](https://github.com/Justhiro55/living-room)
 
-### FUNIF
+### 🏫FUNIF
 
 If you were to enter Future University Hakodate, what would your four years look like?
 
