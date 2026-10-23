@@ -44,6 +44,24 @@ A product developed as part of a team and presented at 技育博.
 **Links**
 - [Repository](https://github.com/Justhiro55/living-room)
 
+### FUNIF
+
+If you were to enter Future University Hakodate, what would your four years look like?
+
+FUNIF is a web app for high school students that lets them experience a future university life through a board-game-like journey.
+
+Users choose their path through lectures, university life, project-based learning, laboratories, and future career options, and explore how studying at Future University Hakodate could connect to their future.
+
+**Project Overview**
+- Built as a 3-day internal hackathon project
+- Developed by a team of 3
+- Main role: coding
+- The repository is not public, but the project page is available
+
+**Links**
+- [Project Link](https://mitsuba-blush.vercel.app/)
+
+
 ---
 
 ## 🛠 Tech Stack
