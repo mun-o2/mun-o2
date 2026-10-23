@@ -7,7 +7,7 @@
 </p>
 
 I enjoy creating products based on real user experiences and feedback.
-Currently focusing on mobile app development, web development, and UI/UX design.
+Currently focusing on mobile app development, web development.
 
 ---
 
@@ -16,29 +16,25 @@ Currently focusing on mobile app development, web development, and UI/UX design.
 * 🎓 Future University Hakodate
 * 📱 Interested in Mobile & Web Development
 * 🤝 Experience in Team Development and Hackathons
-* 🏆 Presented a project at 技育博
-* 💃 Representative of a university street dance circle
-* 🌱 Currently learning React and Flutter
 
 ---
 
 ## 📌 Featured Projects
 
-### 🐑 ひつじのしおり
+### share me
 
-An application designed to encourage communication between younger and older generations.
+A digital profile book app that allows users to exchange profiles with friends.
 
-* User research and problem identification
-* UI/UX design
-* Team development
-* Presented and improved through user feedback
+* Product concept and problem definition
+* Mobile app development
+* Team collaboration and iteration based on feedback
 
 **Links**
-- [Repository](https://github.com/mun-o2/hack1)
+- [Repository](https://github.com/mun-o2/hakocha)
 
-### 🌍 nook.
+### nook.
 
-Developed a product as part of a team and presented it at 技育博.
+A product developed as part of a team and presented at 技育博.
 
 * Problem discovery
 * Planning and prototyping
@@ -47,7 +43,6 @@ Developed a product as part of a team and presented it at 技育博.
 
 **Links**
 - [Repository](https://github.com/Justhiro55/living-room)
-
 
 ---
 
@@ -68,12 +63,10 @@ Flutter / React / Firebase / Git / GitHub / Figma
 * Flutter App Development
 * Learning React
 * Team Development
-* UI/UX Design
 
 ---
 
 ## 🔗 Links
 
 - [X (@peti_en)](https://x.com/peti_en)
-- [note](https://note.com/peti_en)
 - [GitHub](https://github.com/mun-o2)
