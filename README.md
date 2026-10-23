@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Miu 👋</h1>
+<h1 align="center">Hi, I'm Mun</h1>
 
 <p align="center">
 🎓Computer Science Student at Future University Hakodate
